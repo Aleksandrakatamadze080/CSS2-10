@@ -1,0 +1,215 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+
+#one  {
+   margin: 64px auto;
+   max-width: 1604px;
+}
+
+
+#main{
+   
+    background: #E2F7FF;
+    width: 100%;
+    margin: 0 auto;
+    padding: 96px;
+}
+
+#child {
+    padding: 0 32px;
+    margin: 0 auto;
+    max-width: 1280px;
+}
+
+#header {
+    margin-bottom: 64px;
+}
+
+#mainImg {
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+#dateP {
+    color: #6941C6;
+    font-size: 14px;
+    margin-bottom: 8px;
+
+}
+
+h1{
+    font-size: 30px;
+    margin-bottom: 8px;
+}
+
+#head {
+    width: 1176px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#arrowImg {
+    vertical-align: middle;
+}
+
+#imgP {
+    color: #535862;
+    font-size: 16px;
+    margin-bottom: 24px;
+}
+
+#imgButtonOne, #ButtonThreeOne, #ButtonFiveOne, #ButtonSixOne
+
+ {
+    border-radius: 9999px;
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+    padding: 8px 16px;
+    color: #6941C6;
+    font-size: 14px;
+}
+
+#aOne, #aThreeOne, #FiveOne, #SixOne {
+    color: #6941C6;
+}
+
+
+#imgButtonTwo, #ButtonFourTwo, #ButtonFiveTwo, #ButtonSixTwo {
+    border-radius: 9999px;
+    border: 1px solid #C7D7FE;;
+    background: #EEF4FF;;
+    padding: 8px 16px;
+    color: #3538CD;
+    font-size: 14px;
+    margin-left: 8px;
+}
+
+#aTwo, #aFourTwo, #aFiveTwo, #aSixTwo{
+    color: #3538CD;
+}
+
+#imgButtonThree, #ButtonOneTwo, #ButtonOneThree, #ButtonTwoTwo{
+    border-radius: 9999px;
+    border: 1px solid #FCCEEE;
+    background: #FDF2FA;
+    padding: 8px 16px;
+    color: #C11574;
+    font-size: 14px;
+    margin-left: 8px;
+}
+
+#aThree, #aOneTwo, #aOneThree, #aTwoTwo  {
+    color: #C11574; 
+}
+
+#cardOne, #cardTwo, #cardFour,  #cardFive  {
+    width: 384px;
+    display: inline-block;
+    margin-right: 28px;
+    margin-bottom: 48px;
+    vertical-align: middle;
+}
+
+#cardThree, #cardSixDiv {
+    display: inline-block;
+    width: 384px;
+    margin-bottom: 48px;
+    vertical-align: middle;
+    
+}
+
+#cardSixDiv {
+    margin-top: 25px;
+}
+
+
+
+#ones, #Twos, #Threes, #Fours, #Fives, #Sixs {
+    margin: 20px 0 8px 0;
+    color: #6941C6;
+    font-size: 14px;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 8px;
+}
+
+#hDivOne, #hDivTwo, #hDivThree, #hDivFour, #hDivFive, #hDivSix {
+    width: 344px;
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+
+#arrowOne, #arrowTwo, #arrowThree, #arrowFour, #arrowFive, #arrowSix {
+    vertical-align: middle;
+    margin-bottom: 8px;
+    margin-left: 12px;
+    
+}
+
+#pOne, #pTwo, #pThree, #pFour, #pFive, #pSix {
+    color: #535862;
+    font-size: 16px;
+    margin-bottom: 24px;
+}
+
+#ButtonOneOne {
+    border-radius: 9999px;
+    border: 1px solid #B9E6FE;
+    background: #F0F9FF;
+    padding: 8px 16px;
+    color: #026AA2;
+    font-size: 14px;
+}
+
+#aOneOne {
+    color: #026AA2;
+}
+
+#ButtonTwoOne, #ButtonFourOne {
+    border-radius: 9999px;
+    border: 1px solid #ABEFC6;
+    background: #ECFDF3;
+    padding: 8px 16px;
+    color: #067647;
+    font-size: 14px;
+}
+
+#aTwoOne, #aFourOne {
+    color: #067647;
+}
+
+#ButtonThreeTwo{
+    border-radius: 9999px;
+    border: 1px solid #D5D9EB;
+    background: #F8F9FC;
+    padding: 8px 16px;
+    color: #363F72;
+    font-size: 14px;
+
+}
+
+#aThreeTwo {
+    color: #363F72;
+}
+
+#ButtonFourThree {
+    border-radius: 9999px;
+    border: 1px solid #F9DBAF;
+    background: #FEF6EE;
+    padding: 8px 16px;
+    color: #B93815;
+    font-size: 14px;
+    margin-left: 8px;
+}
+
+#aFourThree {
+    color: #B93815;
+}
